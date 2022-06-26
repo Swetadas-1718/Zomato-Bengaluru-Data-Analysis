@@ -1,5 +1,5 @@
 # Zomato-Bengaluru-Data-Analysis
-The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the establishment of different types of the restaurant at different locations in Bengaluru. From the data, I tried to bring out some clean insights.
+Bengaluru being an IT capital of India, most of the people are dependent on the restaurant food. The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the establishment of different types of the restaurant at different locations in Bengaluru. From the data, I tried to bring out some clean insights.
 
 ## Data Format
 You can download the data from here:
