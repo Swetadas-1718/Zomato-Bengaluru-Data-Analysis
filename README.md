@@ -4,6 +4,7 @@ The basic idea of analyzing the Zomato dataset is to get a fair idea about the f
 ## Data Format
 You can download the data from here:
 https://www.kaggle.com/code/akshitmadan/zomato-data-set-analysis-visualization/data 
+
 The dataset contains 51717 records of Data and 17 columns/features such as URL, Address, Name, Online_order, Book_table, Rating, Phone number, Location, Restaurant type, Dish liked, Cuisines, Average cost for 2 persons, Reviews_list, Menu and more.
 
 ## Tools Used
